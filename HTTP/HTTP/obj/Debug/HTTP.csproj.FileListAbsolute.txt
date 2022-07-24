@@ -1,0 +1,11 @@
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\HTTP\HTTP\bin\Debug\HTTP.exe.config
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\HTTP\HTTP\bin\Debug\HTTP.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\HTTP\HTTP\bin\Debug\HTTP.pdb
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\HTTP\HTTP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\HTTP\HTTP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\HTTP\HTTP\obj\Debug\HTTP.csproj.AssemblyReference.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\HTTP\HTTP\obj\Debug\HTTP.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\HTTP\HTTP\obj\Debug\HTTP.csproj.CoreCompileInputs.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\HTTP\HTTP\obj\Debug\HTTP.csproj.CopyComplete
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\HTTP\HTTP\obj\Debug\HTTP.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\HTTP\HTTP\obj\Debug\HTTP.pdb

@@ -5,4 +5,6 @@ Vai precisar:
 
 1º: https://jsonplaceholder.typicode.com/todos/
 
-2: Biblioteca: Newtonsoft.Json
+2º: Biblioteca: Newtonsoft.Json
+
+3º: Tenha certenha que importou :System.IO; e o System.Net;

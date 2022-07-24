@@ -7,4 +7,4 @@ Vai precisar:
 
 2º: Biblioteca: Newtonsoft.Json
 
-3º: Tenha certenha que importou :System.IO; e o System.Net;
+3º: Tenha certenha de que importou: System.IO; e System.Net;
